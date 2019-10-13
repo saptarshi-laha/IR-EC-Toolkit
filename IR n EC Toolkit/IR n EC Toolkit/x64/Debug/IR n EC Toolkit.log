@@ -1,0 +1,27 @@
+﻿  Source.c
+c:\users\saptarshi laha\documents\visual studio 2017\projects\ir n ec toolkit\ir n ec toolkit\source.c(199): warning C4033: 'Processing_Thread' must return a value
+c:\users\saptarshi laha\documents\visual studio 2017\projects\ir n ec toolkit\ir n ec toolkit\source.c(247): warning C4113: 'DWORD (__cdecl *)()' differs in parameter lists from 'LPTHREAD_START_ROUTINE'
+c:\users\saptarshi laha\documents\visual studio 2017\projects\ir n ec toolkit\ir n ec toolkit\source.c(289): warning C4477: 'fprintf' : format string '%08x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned char *'
+c:\users\saptarshi laha\documents\visual studio 2017\projects\ir n ec toolkit\ir n ec toolkit\source.c(289): warning C4313: 'fprintf': '%x' in format string conflicts with argument 1 of type 'unsigned char *'
+c:\users\saptarshi laha\documents\visual studio 2017\projects\ir n ec toolkit\ir n ec toolkit\source.c(294): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SIZE_T'
+  c:\users\saptarshi laha\documents\visual studio 2017\projects\ir n ec toolkit\ir n ec toolkit\source.c(294): note: consider using '%lld' in the format string
+  c:\users\saptarshi laha\documents\visual studio 2017\projects\ir n ec toolkit\ir n ec toolkit\source.c(294): note: consider using '%Id' in the format string
+  c:\users\saptarshi laha\documents\visual studio 2017\projects\ir n ec toolkit\ir n ec toolkit\source.c(294): note: consider using '%I64d' in the format string
+c:\users\saptarshi laha\documents\visual studio 2017\projects\ir n ec toolkit\ir n ec toolkit\source.c(374): warning C4113: 'DWORD (__cdecl *)()' differs in parameter lists from 'LPTHREAD_START_ROUTINE'
+c:\users\saptarshi laha\documents\visual studio 2017\projects\ir n ec toolkit\ir n ec toolkit\source.c(421): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\saptarshi laha\documents\visual studio 2017\projects\ir n ec toolkit\ir n ec toolkit\source.c(421): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\saptarshi laha\documents\visual studio 2017\projects\ir n ec toolkit\ir n ec toolkit\source.c(451): warning C4113: 'DWORD (__cdecl *)()' differs in parameter lists from 'LPTHREAD_START_ROUTINE'
+c:\users\saptarshi laha\documents\visual studio 2017\projects\ir n ec toolkit\ir n ec toolkit\source.c(501): warning C4474: 'fprintf' : too many arguments passed for format string
+  c:\users\saptarshi laha\documents\visual studio 2017\projects\ir n ec toolkit\ir n ec toolkit\source.c(501): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\saptarshi laha\documents\visual studio 2017\projects\ir n ec toolkit\ir n ec toolkit\source.c(589): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\saptarshi laha\documents\visual studio 2017\projects\ir n ec toolkit\ir n ec toolkit\source.c(976): warning C4047: '=': 'uintptr_t' differs in levels of indirection from 'HANDLE'
+c:\users\saptarshi laha\documents\visual studio 2017\projects\ir n ec toolkit\ir n ec toolkit\source.c(1023): warning C4047: '=': 'uintptr_t' differs in levels of indirection from 'HANDLE'
+c:\users\saptarshi laha\documents\visual studio 2017\projects\ir n ec toolkit\ir n ec toolkit\source.c(1039): warning C4244: '=': conversion from 'uintptr_t' to 'int', possible loss of data
+c:\users\saptarshi laha\documents\visual studio 2017\projects\ir n ec toolkit\ir n ec toolkit\source.c(1135): warning C4047: '=': 'TCHAR' differs in levels of indirection from 'void *'
+c:\users\saptarshi laha\documents\visual studio 2017\projects\ir n ec toolkit\ir n ec toolkit\source.c(978): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'HANDLE'
+c:\users\saptarshi laha\documents\visual studio 2017\projects\ir n ec toolkit\ir n ec toolkit\source.c(978): warning C4313: 'printf': '%d' in format string conflicts with argument 2 of type 'HANDLE'
+c:\users\saptarshi laha\documents\visual studio 2017\projects\ir n ec toolkit\ir n ec toolkit\source.c(1025): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'HANDLE'
+c:\users\saptarshi laha\documents\visual studio 2017\projects\ir n ec toolkit\ir n ec toolkit\source.c(1025): warning C4313: 'printf': '%d' in format string conflicts with argument 2 of type 'HANDLE'
+c:\users\saptarshi laha\documents\visual studio 2017\projects\ir n ec toolkit\ir n ec toolkit\source.c(221): warning C4716: 'Processing_Thread': must return a value
+  IR n EC Toolkit.vcxproj -> c:\Users\Saptarshi Laha\Documents\Visual Studio 2017\Projects\IR n EC Toolkit\x64\Debug\IR n EC Toolkit.exe
+  IR n EC Toolkit.vcxproj -> c:\Users\Saptarshi Laha\Documents\Visual Studio 2017\Projects\IR n EC Toolkit\x64\Debug\IR n EC Toolkit.pdb (Partial PDB)

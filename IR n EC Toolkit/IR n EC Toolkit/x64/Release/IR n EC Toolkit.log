@@ -1,0 +1,61 @@
+﻿  Source.c
+Source.c(12): warning C4005: 'NT_SUCCESS': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\um\winternl.h(823): note: see previous definition of 'NT_SUCCESS'
+Source.c(322): warning C4033: 'Processing_Thread' must return a value
+Source.c(369): warning C4113: 'DWORD (__cdecl *)()' differs in parameter lists from 'LPTHREAD_START_ROUTINE'
+Source.c(451): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Source.c(411): warning C4477: 'fprintf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned char *'
+Source.c(411): warning C4313: 'fprintf': '%X' in format string conflicts with argument 1 of type 'unsigned char *'
+Source.c(416): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SIZE_T'
+  Source.c(416): note: consider using '%lld' in the format string
+  Source.c(416): note: consider using '%Id' in the format string
+  Source.c(416): note: consider using '%I64d' in the format string
+Source.c(434): warning C4477: 'fprintf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned char *'
+Source.c(434): warning C4313: 'fprintf': '%X' in format string conflicts with argument 1 of type 'unsigned char *'
+Source.c(501): warning C4113: 'DWORD (__cdecl *)()' differs in parameter lists from 'LPTHREAD_START_ROUTINE'
+Source.c(559): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Source.c(542): warning C4477: 'fprintf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type '__int64'
+  Source.c(542): note: consider using '%lld' in the format string
+  Source.c(542): note: consider using '%Id' in the format string
+  Source.c(542): note: consider using '%I64d' in the format string
+Source.c(598): warning C4113: 'DWORD (__cdecl *)()' differs in parameter lists from 'LPTHREAD_START_ROUTINE'
+Source.c(657): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Source.c(640): warning C4477: 'fprintf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type '__int64'
+  Source.c(640): note: consider using '%lld' in the format string
+  Source.c(640): note: consider using '%Id' in the format string
+  Source.c(640): note: consider using '%I64d' in the format string
+Source.c(697): warning C4113: 'DWORD (__cdecl *)()' differs in parameter lists from 'LPTHREAD_START_ROUTINE'
+Source.c(753): warning C4113: 'DWORD (__cdecl *)()' differs in parameter lists from 'LPTHREAD_START_ROUTINE'
+Source.c(868): warning C4047: '=': 'WORD' differs in levels of indirection from 'void *'
+Source.c(875): warning C4047: '=': 'WORD' differs in levels of indirection from 'void *'
+Source.c(960): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Source.c(1383): warning C4047: '=': 'uintptr_t' differs in levels of indirection from 'HANDLE'
+Source.c(1430): warning C4047: '=': 'uintptr_t' differs in levels of indirection from 'HANDLE'
+Source.c(1446): warning C4244: '=': conversion from 'uintptr_t' to 'int', possible loss of data
+Source.c(1542): warning C4047: '=': 'TCHAR' differs in levels of indirection from 'void *'
+Source.c(1867): warning C4133: 'function': incompatible types - from 'DWORD *' to 'const time_t *const '
+Source.c(1925): warning C4244: 'function': conversion from 'ULONGLONG' to 'int', possible loss of data
+Source.c(1961): warning C4047: '=': 'uintptr_t' differs in levels of indirection from 'HANDLE'
+Source.c(2002): warning C4018: '<': signed/unsigned mismatch
+Source.c(2014): warning C4022: 'NtDuplicateObject': pointer mismatch for actual parameter 2
+Source.c(2100): warning C4013: 'gets' undefined; assuming extern returning int
+Source.c(2161): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Source.c(2219): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Source.c(2347): warning C4047: '=': 'TCHAR' differs in levels of indirection from 'void *'
+Source.c(1385): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'HANDLE'
+Source.c(1385): warning C4313: 'printf': '%d' in format string conflicts with argument 2 of type 'HANDLE'
+Source.c(1432): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'HANDLE'
+Source.c(1432): warning C4313: 'printf': '%d' in format string conflicts with argument 2 of type 'HANDLE'
+Source.c(1877): warning C4477: 'fprintf' : format string '%#x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'ULONGLONG'
+  Source.c(1877): note: consider using '%llx' in the format string
+  Source.c(1877): note: consider using '%Ix' in the format string
+  Source.c(1877): note: consider using '%I64x' in the format string
+Source.c(1963): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'HANDLE'
+Source.c(1963): warning C4313: 'printf': '%d' in format string conflicts with argument 2 of type 'HANDLE'
+Source.c(1954): warning C4101: 'countHandle': unreferenced local variable
+Source.c(2127): warning C4101: 'inFileSize': unreferenced local variable
+  Generating code
+c:\users\saptarshi laha\documents\visual studio 2017\projects\ir n ec toolkit\ir n ec toolkit\source.c(343): warning C4716: 'Processing_Thread': must return a value
+  All 34 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  IR n EC Toolkit.vcxproj -> C:\Users\Saptarshi Laha\documents\visual studio 2017\Projects\IR n EC Toolkit\x64\Release\IR n EC Toolkit.exe
